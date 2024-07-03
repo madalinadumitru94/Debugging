@@ -1,4 +1,4 @@
-package debuggingexercises.Debugging.perimeterchallange;
+package Debugging.perimeter;
 
 import java.util.ArrayList;
 import java.util.List;

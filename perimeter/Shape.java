@@ -1,6 +1,6 @@
-package debuggingexercises.Debugging.perimeterchallange;
+package Debugging.perimeter;
 
-import debuggingexercises.Debugging.perimeterchallange.Point;
+import Debugging.perimeter.Point;
 
 public class Shape {
 
